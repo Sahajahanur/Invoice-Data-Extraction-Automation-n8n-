@@ -176,6 +176,11 @@ This workflow handles:
 <img width="1918" height="832" alt="image" src="https://github.com/user-attachments/assets/3557762c-f76b-4318-be79-9e2a93005111" />
 
 
+##  📬 Contacts  
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connectingsrl@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahajahanur-laskar/)
+
 
 
 
